@@ -6,11 +6,11 @@ Il portait sur la l'entrainement de modèles destinés à prédire la consommati
 
 Il était demandé de réaliser:
 
-Le nettoyage et l'exploration des données.
-Construire des variables explicatives afin de favoriser l'apprentissage des modèles de machine learning (feature engineering).
-Entraîner différentes familles de modèles de machine learning
-Sélectionner le / les meilleurs modèles et définir les hyperparamètres permettant d'atteindre les meilleures performances
-Déterminer si la variable [ENERGYSTARScore](https://www.energystar.gov/buildings/benchmark/understand_metrics/how_score_calculated), coûteuse à calculée, est nécessaire pour l'entraînement des modèles.
+* Le nettoyage et l'exploration des données.
+* Construire des variables explicatives afin de favoriser l'apprentissage des modèles de machine learning (feature engineering).
+* Entraîner différentes familles de modèles de machine learning
+* Sélectionner le / les meilleurs modèles et définir les hyperparamètres permettant d'atteindre les meilleures performances
+* Déterminer si la variable [ENERGYSTARScore](https://www.energystar.gov/buildings/benchmark/understand_metrics/how_score_calculated), coûteuse à calculée, est nécessaire pour l'entraînement des modèles.
 
 ## contenu du repository
 
